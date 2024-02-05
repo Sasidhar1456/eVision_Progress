@@ -15,7 +15,8 @@
 +
 
 ###### Name : Hema - BackEnd
-+
++ learnt basics of Django
++ learnt to setup a virtual environment
 
 ###### Name : Keerthi - BackEnd
 + learned Django basics
