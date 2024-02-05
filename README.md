@@ -18,4 +18,5 @@
 +
 
 ###### Name : Keerthi - BackEnd
-+
++learned Django basics
++basics of Python
