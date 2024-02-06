@@ -30,11 +30,10 @@
 +
 
 ###### Name : Shabina - AI
-+
++ learned how to create webcam
 
 ###### Name : Gowthami - AI
-+
-
++ learned how to create webcam
 ###### Name : Hema - BackEnd
 + learnt about MVT architecture
 + learnt about Object Relational Mapping
