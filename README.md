@@ -2,8 +2,7 @@
 
 # 05/02/24
 ###### Name : Sasidhar - FrontEnd
-+ learnt basics of JS
-+ basics of css
++ learnt Tailwind CSS
 
 ###### Name : Vamsi - Andriod
 +
