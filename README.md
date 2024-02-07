@@ -57,7 +57,7 @@
 + 
 
 ###### Name : Hema - BackEnd
-+ 
++ built a demo project using django
 
 ###### Name : Keerthi - BackEnd
-+ 
++ built a demo project using django
