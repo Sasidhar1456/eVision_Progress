@@ -24,7 +24,7 @@
 
 # 06/02/24
 ###### Name : Sasidhar - FrontEnd
-+ 
++ learnt Tailwind CSS 
 
 ###### Name : Vamsi - Andriod
 +
