@@ -34,9 +34,30 @@
 
 ###### Name : Gowthami - AI
 + learned how to create webcam
+  
 ###### Name : Hema - BackEnd
 + learnt about MVT architecture
 + learnt about Object Relational Mapping
 
 ###### Name : Keerthi - BackEnd
 +
+
+
+# 07/02/24
+###### Name : Sasidhar - FrontEnd
++ built a demo project using Tailwind CSS 
+
+###### Name : Vamsi - Andriod
++ 
+
+###### Name : Shabina - AI
++  
+
+###### Name : Gowthami - AI
++ 
+
+###### Name : Hema - BackEnd
++ 
+
+###### Name : Keerthi - BackEnd
++ 
