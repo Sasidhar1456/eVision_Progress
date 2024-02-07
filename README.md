@@ -27,7 +27,7 @@
 + learnt Tailwind CSS 
 
 ###### Name : Vamsi - Andriod
-+leanrt basics of andriod
++ leanrt basics of andriod
 
 ###### Name : Shabina - AI
 + learned how to create webcam
