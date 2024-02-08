@@ -54,7 +54,7 @@
 +  
 
 ###### Name : Gowthami - AI
-+ 
++ basics in HTML
 
 ###### Name : Hema - BackEnd
 + built a demo project using django
